@@ -1,6 +1,21 @@
 # CSY1018 Assignment 1
 
 ## The Project
+index.html must include the following
+1. Name
+2. Portrait
+3. Link to CV
+4. Link to short bio
+5. Link to contact information
+
+cv.html must include the following:
+1. Full Name
+2. Education
+3. Coursework
+4. Experience
+5. Skills
+
+A short biography and contact information must also be included.
 
 #### Work
 
@@ -11,8 +26,8 @@ These will be checked off as they're completed.
 - [ ] index.css
 - [ ] bio.html
 - [ ] bio.css
-- [ ] resume.html
-- [ ] resume.css
+- [ ] cv.html
+- [ ] cv.css
 - [ ] contact.html
 - [ ] contact.css
 
@@ -21,4 +36,4 @@ These will be checked off as they're completed.
 ## Bibliography
 
 ### Approx. Project Time
-1 hour
+3 hours
