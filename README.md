@@ -36,4 +36,4 @@ These will be checked off as they're completed.
 ## Bibliography
 
 ### Approx. Project Time
-3 hours
+5 hours
