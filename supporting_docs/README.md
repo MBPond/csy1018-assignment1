@@ -1,5 +1,9 @@
 # CSY1018 Assignment 1
-
+Michael Pond
+16425703
+github url
+Assignment 1:Web Development
+Submission date
 ## The Project
 index.html must include the following
 1. Name
@@ -30,10 +34,11 @@ These will be checked off as they're completed.
 - [ ] cv.css
 - [ ] contact.html
 - [ ] contact.css
+- [x] style.css
 
 ## Collaborators
 
 ## Bibliography
 
 ### Approx. Project Time
-5 hours
+8 hours
