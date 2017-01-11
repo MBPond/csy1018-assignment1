@@ -1,0 +1,47 @@
+    /*Michael Pond 16425703*/
+
+
+/*style*/
+
+.wrapper {
+    padding-top: 3.5em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 50vh;
+}
+
+.contact_options {
+    padding-top: 6em;
+    flex: 0 1;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    width: 70vw;
+}
+
+img {
+    height: 7em;
+}
+
+.contact_text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+/*breakpoints*/
+
+@media (max-width: 600px) {
+    .wrapper {
+        height: 65vh;
+    }
+    .contact_options {
+        padding-top: 14em;
+        flex-direction: column;
+        align-items: center;
+    }
+    img {
+        height: 5em;
+    }

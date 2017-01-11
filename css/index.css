@@ -1,0 +1,41 @@
+/*Michael Pond 16425703*/
+
+
+/*Style*/
+
+p {
+    padding-top: 2em;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+ol {
+    list-style-type: none;
+    text-align: center;
+    font-size: 1em;
+}
+
+.wrapper {
+    height: 50vh;
+}
+
+
+/*Image*/
+
+.me, img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
+
+.me {
+    margin: 72px auto 1.5em;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    overflow: hidden;
+}
