@@ -8,6 +8,10 @@ Assignment 1: Web Development
 
 ## The Project
 
+### Wireframes
+
+![Web Home](/images/wireframe1.png)
+
 ### Work
 
 Below is a checklist of the main project files which are being implemented. These will be checked off as they're completed.
