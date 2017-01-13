@@ -10,7 +10,14 @@ Assignment 1: Web Development
 
 ### Wireframes
 
-![Web Home](/images/wireframe1.png)
+![Web Home](/img/wireframe1.png)
+![Web CV](/img/wireframe2.png)
+![Web BIO](/img/wireframe3.png)
+![Web Contact](/img/wireframe4.png)
+![Mobile Home](/img/wireframe5.png)
+![Mobile CV](/img/wireframe6.png)
+![Mobile BIO](/img/wireframe7.png)
+![Mobile Contact](/img/wireframe8.png)
 
 ### Work
 
