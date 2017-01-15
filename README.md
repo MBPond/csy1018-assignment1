@@ -8,6 +8,29 @@ Assignment 1: Web Development
 
 ## The Project
 
+The first task is to make the index.html page. This is the first page that someone will see when
+viewing the website and will be where the links for the other pages will go. The first part of
+the page to make is the overall style and theme that will also be used for the other pages.
+
+I will keep the Google Material design in mind throughout the process of designing my own webpage
+as this will make it work together and look more professional. I have started by making the nav
+bar, which has four buttons on it for the Home, CV, Bio and contact pages. The tab for the current
+page will have either a block colour or underline to signify it being active.
+
+The next step is to make the footer. I decided to keep the colour of the footer white like the body
+of the page but have given it a shadow to separate it. I have also decided that his would be a good
+idea for the nav bar, this way it will stick to the idea of layering sections on top of each other
+rather than a 2D sheet. Further keeping to the 3D effect, I have now added a overlaying body section
+to the main page allowing for this to have a shadow to it as well. This is enhanced by changing the
+main page to a light grey.
+
+Now this is done, I have changed the colour of the nav bar to give it a more appealing look but still
+staying to the material design by choosing a main colour with an accompanying accent colour.
+
+Now that the main styling of the page is complete I am able to use it on all the other pages as well.
+This makes it easier for me now to add the content of the pages and work around the style that is now
+implemented.
+
 ### Wireframes
 
 ![Web Home](/img/wireframe1.png)
@@ -21,7 +44,8 @@ Assignment 1: Web Development
 
 ### Work
 
-Below is a checklist of the main project files which are being implemented. These will be checked off as they're completed.
+Below is a checklist of the main project files which are being implemented.
+These will be checked off as they're completed.
 
 - [x] index.html
 - [x] index.css
